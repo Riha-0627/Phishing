@@ -1,0 +1,12 @@
+pandas
+requests
+beautifulsoup4
+python-whois
+streamlit
+numpy
+matplotlib
+seaborn
+xgboost
+scikit-learn
+tensorflow
+keras
